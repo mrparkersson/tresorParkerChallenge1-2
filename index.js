@@ -16,4 +16,4 @@ function beautifulDays(i, j, k) {
   }
 }
 
-beautifulDays(20, 23, 6);
+console.log(beautifulDays(20, 23, 6));
